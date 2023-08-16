@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Notlarım</string>
+    <string name="tasks">Görevler</string>
+    <string name="snackbarok">OK</string>
+    <string name="storage_permission_text">This App Needs access to your Storage.</string>
+    <string name="search_notes">Notlarınızda arayın...</string>
+    <string name="notes">Notlar</string>
+    <string name="my_notes">My Notes</string>
+    <string name="date">Tarih</string>
+    <string name="notes_title">Başlık</string>
+    <string name="https">https://</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="enter_notes_here">Notunuzu girin..</string>
+    <string name="bottom_bar">bottom bar</string>
+    <string name="mynotes">Notlarım</string>
+
+    <string name="noteID">noteId</string>
+    <string name="url_require">Url is Required</string>
+    <string name="url_validation">Url is not Valid</string>
+    <string name="title_require">Title is Required</string>
+    <string name="empty_note_description_warning">Notes Description Must Not Be Empty</string>
+
+    <string name="action">action</string>
+    <string name="bottom_sheet_action">bottom_sheet_action</string>
+    <string name="selected_color">selectedColor</string>
+
+    <string name="blue">Blue</string>
+    <string name="cyan">Cyan</string>
+    <string name="green">Green</string>
+    <string name="orange">Orange</string>
+    <string name="purple">Purple</string>
+    <string name="red">Red</string>
+    <string name="yellow">Yellow</string>
+    <string name="brown">Brown</string>
+    <string name="indigo">Indigo</string>
+    <string name="image">Image</string>
+    <string name="webUrl">WebUrl</string>
+    <string name="deleteNote">Notu siliniz</string>
+
+</resources>
